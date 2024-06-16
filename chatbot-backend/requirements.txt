@@ -1,0 +1,13 @@
+python-dotenv
+langchain_community
+langgraph 
+langchain_google_genai
+python-socketio
+eventlet
+flask
+pyjwt
+httpx
+youtube_search
+xmltodict
+psycopg2
+# psycopg2-binary
